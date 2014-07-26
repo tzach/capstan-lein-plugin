@@ -1,4 +1,4 @@
-(defproject capstan "0.1.0-SNAPSHOT"
+(defproject org.clojars.tzach/capstan "0.1.0"
   :description "generate a Capstan clojure project skeleton"
   :url "https://github.com/tzach/capstan-lein-plugin"
   :license {:name "3-clause BSD license"
