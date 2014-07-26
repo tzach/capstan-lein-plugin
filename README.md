@@ -2,7 +2,7 @@
 
 A Leiningen plugin to generate a Capstan project skeleton
 
-**[Capstan]**(https://github.com/cloudius-systems/capstan) is a tool for rapidly building and running your application
+**[Capstan](https://github.com/cloudius-systems/capstan)** is a tool for rapidly building and running your application
 on OSv. Capstan is as simple and fast as using Docker for creating
 containers, but the result is a complete virtual machine image that
 will run on any hypervisor with OSv support.
@@ -16,7 +16,7 @@ clojure project skeleton
 * [lein](https://github.com/technomancy/leiningen)
 
 ## Install
-No installation needed
+No installation needed - 
 plugin is available from Clojars
 
 ## Usage
@@ -30,6 +30,8 @@ run your project on a OSv image
 cd my-project
 capstan run
 ```
+
+on how to run your image on the cloud, and much more [here](https://github.com/cloudius-systems/capstan)
 
 ## License
 
